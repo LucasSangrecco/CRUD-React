@@ -1,0 +1,19 @@
+table{
+  width: 100%;
+  border: 1px solid black;
+}
+
+th{
+  width: 50px;
+  border: 1px solid black;
+}
+
+td{
+  width: 50px;
+  border: 1px solid black;
+}
+.espacoBotao{
+  border: 0;
+  width: 10px;
+  justify-content: center;
+}
